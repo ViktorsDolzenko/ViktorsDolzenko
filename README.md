@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **SWD Factory**
 
-- 💬 Ask me about **React,Angular**
+- 💬 Ask me about **React, Angular**
 
 - 📫 How to reach me **viktorsdolzenko@gmail.com**
 
