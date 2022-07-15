@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktorsdolzenko" alt="viktorsdolzenko" /></a> </p>
 
-- 🔭 I’m currently working in **SWD Factory**
+- 🔭 I’m currently working in **C.T.Co**
 
 - 💬 Ask me about **React, Angular**
 
